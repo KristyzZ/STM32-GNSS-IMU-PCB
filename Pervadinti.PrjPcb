@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=3
 ChannelRoomNamingStyle=0
@@ -30,8 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=E782B29E-B25A-46E7-82CA-29DEED2F109C
+ManagedProjectGUID=A3376300-1D67-43D9-9AF4-9F59204CCC74
 IncludeDesignInRelease=0
+VaultGUID=DFD6897F-2682-47CB-884B-5F96CEB18DC4
+ReleaseVaultName=Kristijonas Cepelis
 
 [Preferences]
 PrefsVaultGUID=
