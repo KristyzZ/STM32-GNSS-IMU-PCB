@@ -52,7 +52,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\Kristijonas\Downloads\PCB_LD_2dalis_studentams\Libraries\VGTU_Altium_lib.SchLib
+DocumentPath=VGTU_Altium_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,10 +66,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KEQORQJD
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=..\..\..\..\Kristijonas\Downloads\PCB_LD_2dalis_studentams\Libraries\VGTU_PCB_Altium_lib.PcbLib
+DocumentPath=VGTU_PCB_Altium_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TFGMUHTA
+DocumentUniqueId=
 
 [Document3]
 DocumentPath=OutputJobs\ExportAssembly.OutJob
