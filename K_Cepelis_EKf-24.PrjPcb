@@ -69,7 +69,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KEQORQJD
 
 [Document2]
-DocumentPath=Libraries\VGTU_PCB_Altium_lib.PcbLib
+DocumentPath=..\..\..\..\Kristijonas\Downloads\PCB_LD_2dalis_studentams\Libraries\VGTU_PCB_Altium_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -79,11 +79,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TFGMUHTA
+DocumentUniqueId=
 
 [Document3]
 DocumentPath=OutputJobs\ExportAssembly.OutJob
