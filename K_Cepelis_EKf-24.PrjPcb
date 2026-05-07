@@ -205,6 +205,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
+DocumentPath=D:\Documents\UNI 2026\LD2\PCB_LD_2dalis_studentams\Schematics\PERV.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXELQENJ
+
+[Document11]
 DocumentPath=D:\Documents\UNI 2026\LD2\PCB_LD_2dalis_studentams\Schematics\SheetPowr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNXWKVAX
 
-[Document11]
+[Document12]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RPKLSEQO
 
-[Document12]
+[Document13]
 DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
