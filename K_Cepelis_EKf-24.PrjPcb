@@ -293,6 +293,126 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for K_Cepelis_EKf-24\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\ERC\K_Cepelis_EKf-24.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1-RoundHoles.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1-RoundHoles.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1-RoundHoles.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1-RoundHoles.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\DRC\PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\BOM\PCB_LD2_1v0_BOMr0.xls
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for K_Cepelis_EKf-24\Pick Place\Pick Place for PCB1.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\K_Cepelis_EKf-24\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb1-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_L2_Blind_Vias|DrillFile=pcb1-roundholes.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_L3_Blind_Vias|DrillFile=pcb1-roundholes.tx2|DrillLayers=gtl,g1,g2
+LayersSetName=Top_L4_Blind_Vias|DrillFile=pcb1-roundholes.tx3|DrillLayers=gtl,g1,g2,g3
+LayersSetName=Top_L5_Blind_Vias|DrillFile=pcb1-roundholes.tx4|DrillLayers=gtl,g1,g2,g3,g4
