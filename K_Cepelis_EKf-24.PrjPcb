@@ -256,7 +256,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VPJPNGRN
 
 [Document13]
-DocumentPath=Job2.OutJob
+DocumentPath=K_Cepelis_EKf-24.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,7 +273,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=K_Cepelis_EKf-24.BomDoc
+DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
